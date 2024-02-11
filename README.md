@@ -12,9 +12,6 @@ Python 3.x
 Installation
 Clone the repository:
 
-bash
-git clone https://github.com/<your_username>/SecurPass.git
-Navigate to the project directory:
 
 bash
 cd SecurPass
