@@ -13,9 +13,6 @@ Installation
 Clone the repository:
 
 
-bash
-cd SecurPass
-
 Run the script:
 bash
 python securpass.py
